@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0C0A66A7-F9B4-4828-9389-BE0A3F0EA226"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEC91FD4-241B-419E-9171-DEA570759AE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ditTok/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EEC91FD4-241B-419E-9171-DEA570759AE9 - 2779d1516217e87c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ditTok.Child) -&gt; SwiftUI.HStack&lt;SwiftUI.NavigationLink&lt;SwiftUI.Text, ditTok.DetailView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in ditTok.ContentView.body.getter : some"
+                  moduleName = "ditTok"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svenarends/stack/Apps/iOS%20Course/ditTok/ditTok/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "EEC91FD4-241B-419E-9171-DEA570759AE9 - 84118e7d9d7723fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, ditTok.DetailView&gt; in closure #1 (ditTok.Child) -&gt; SwiftUI.HStack&lt;SwiftUI.NavigationLink&lt;SwiftUI.Text, ditTok.DetailView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in ditTok.ContentView.body.getter : some"
+                  moduleName = "ditTok"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svenarends/stack/Apps/iOS%20Course/ditTok/ditTok/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B71B2E4-5F95-4947-A728-4020ED318ED7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ditTok/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1B71B2E4-5F95-4947-A728-4020ED318ED7 - fba29ab216dcb6bc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in ditTok.ContentView.body.getter : some"
+                  moduleName = "ditTok"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svenarends/stack/Apps/iOS%20Course/ditTok/ditTok/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "1B71B2E4-5F95-4947-A728-4020ED318ED7 - 2779d1516217e87c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ditTok.Child) -&gt; SwiftUI.HStack&lt;SwiftUI.NavigationLink&lt;SwiftUI.Text, ditTok.DetailView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in ditTok.ContentView.body.getter : some"
+                  moduleName = "ditTok"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svenarends/stack/Apps/iOS%20Course/ditTok/ditTok/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80C3C4B2-A492-4C16-9149-DF98FE466567"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ditTok/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "80C3C4B2-A492-4C16-9149-DF98FE466567 - 3d421cab0f46ce2b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.NavigationLink&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;, ditTok.DetailView&gt; in closure #1 (ditTok.Child) -&gt; SwiftUI.HStack&lt;SwiftUI.NavigationLink&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;, ditTok.DetailView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in ditTok.ContentView.body.getter : some"
+                  moduleName = "ditTok"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svenarends/stack/Apps/iOS%20Course/ditTok/ditTok/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "5095">
+               </Location>
+               <Location
+                  uuid = "80C3C4B2-A492-4C16-9149-DF98FE466567 - 5970783ac4359b18"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt; in closure #1 () -&gt; SwiftUI.NavigationLink&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;, ditTok.DetailView&gt; in closure #1 (ditTok.Child) -&gt; SwiftUI.HStack&lt;SwiftUI.NavigationLink&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;, ditTok.DetailView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in ditTok.ContentView.body.getter : some"
+                  moduleName = "ditTok"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svenarends/stack/Apps/iOS%20Course/ditTok/ditTok/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
